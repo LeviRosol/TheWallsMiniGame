@@ -89,6 +89,17 @@ Walls.kit.* : Permission to use all the kits
 Walls.kit.<kitname> : Permission to use a certain kit
 
 **Future Updates**
+* ~~Allow for a configurable minimum players setting~~
+* Config setting for time to start game
+* Team Chat
+* Spectator mode
+* Prize kits
+* Right menu display for team list / counts
+* Top menu for latest kill / announcements
+* Don't get kicked from the game if you leave and join again (after 30 seconds or about)
+* Timer signs - Reset count down (percent based) - Signs for within arenas showing play time left 
+
+**Future Updates from original Author**
 * More optimisation
 * An api
 * Can teleport to spawns just in case you lose them
@@ -97,13 +108,9 @@ Walls.kit.<kitname> : Permission to use a certain kit
 * Any bug fixes that need to be done
 * Neaten the coding
 * Update chat so it looks nicer
-* Team chat
 * Punch a block so that you are marked as ready
 * Can edit an arena, Once doing this, you don't need to put the Arena Name at the end of every command
-* Spectator more
-* Timer signs
 * Team selection
-* Don't get kicked from the game if you leave and join again (after 30 seconds or about)
 
 **Demonstration Servers**
 
