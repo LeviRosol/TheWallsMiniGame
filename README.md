@@ -53,6 +53,7 @@ Source can be found here: https://github.com/LeviRosol/TheWallsMiniGame
 * `/Walls Time <Operator> <Time> <ArenaName>` walls.time  Set the time the arena will last in seconds
 * `/Walls Broadcast <Operator> <Time> <ArenaName>`  walls.broadcast Will tell people in the arena how long it is till the walls drop
 * `/Walls AC <Operator> [Command] <ArenaName>`  walls.commands  Edits the Allowed Commands that are allowed to be used while playing the walls
+* `/Walls MinPlayers <integer> <ArenaName>` sets the minimum number of players needed to start a new game.
 * `/Walls Save <Config/Arena> [ArenaName]`  walls.save, walls.save.config, walls.save.arenas  Allows people to save the config and arenas
 * `/Walls Reload <Kits>`  walls.reload, walls.reload.kits Reloads the kits config
 * `See if there is an update when they join`  walls.updates Checks if there is an update for the walls and then tells them if there is one when they join
